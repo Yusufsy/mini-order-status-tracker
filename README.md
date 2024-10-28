@@ -19,7 +19,7 @@ Before you begin, make sure you have the following installed:
    ```bash
    cd backend
    ```
-    2. **Install dependencies**:
+2. **Install dependencies**:
    ```bash
    npm install
    ```
