@@ -49,7 +49,3 @@ Before you begin, make sure you have the following installed:
    ```
 
 4. The frontend application will be available at `http://localhost:3000`.
-
-## License
-
-This project is licensed under the MIT License.
